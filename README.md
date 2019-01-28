@@ -7,3 +7,8 @@ Future Actions:
 1. Creating Metadata of input file.
 2. Adding graphical results.
 3. Explaining the whole project in a detailed write-up.
+
+
+Reference:
+
+1. Smalheiser NR, Torvik VI, Zhou W. Arrowsmith two-node search interface: A tutorial on finding meaningful links between two disparate sets of articles in MEDLINE. Computer Methods and Programs in Biomedicine 2009.
